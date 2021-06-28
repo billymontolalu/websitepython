@@ -1,0 +1,2 @@
+b'pertanyaan1=1&pertanyaan2=1&pertanyaan3=test'
+b'pertanyaan1=2&pertanyaan2=2&pertanyaan3=test2'
